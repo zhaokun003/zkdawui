@@ -16,7 +16,6 @@ export default defineComponent({
   // emits: ['onClick'],
   setup(props, { emit }) {
     console.log(props);
-    console.log(123);
 
 
     // 返回值会暴露给模板和其他的选项式 API 钩子
