@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { Button, Select } from 'zkdwui'
 const onClick = () => {
-  console.log('button-1');
+  console.log('button-lerna');
 
 }
 </script>
